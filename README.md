@@ -1,6 +1,6 @@
 # Lyera Xin Ying Lye
 
-_Veterinarian/Human Animal Interaction researcher (and sometimes a doodle artist) based in Taiwan_ <br>
+_Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance writer) from Malaysia_ <br>
 
 [Email](mailto:trilyera.co@gmail.com) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
