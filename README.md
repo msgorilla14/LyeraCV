@@ -18,7 +18,7 @@ Established exotic pet animal hospital that provides distinguish medical service
   - Passed Taiwan Veterinary Board Examination, certified as a practicing veterinarian
 <br><br>
 
-**Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html)_(Sep 2017 ~ June 2019)_
+**Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
 >_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_
   - Conducted clinical studies and laboratory experiments independently
   - Completed scientific paper and submitted for publication
@@ -26,27 +26,27 @@ Established exotic pet animal hospital that provides distinguish medical service
 <br><br>
 
 **Wildlife Veterinary Intern** <br>
-@ [Bornean Sun Bear Conservation Centre](https://www.bsbcc.org.my/index.html)_(Aug 2018)_ <br>
-@ [Sepilok Orang Utan Rehabilitation Centre](https://www.orangutan-appeal.org.uk/about-us/sepilok-orangutan-rehabilitation-centre)_(July 2018)_ <br>
-@ [Leofoo Village Themepark Zoo](https://leofooforeign.ticketeasy.com.tw)_(Jan 2018)_ <br>
+@ [Bornean Sun Bear Conservation Centre](https://www.bsbcc.org.my/index.html) _(Aug 2018)_ <br>
+@ [Sepilok Orang Utan Rehabilitation Centre](https://www.orangutan-appeal.org.uk/about-us/sepilok-orangutan-rehabilitation-centre) _(July 2018)_ <br>
+@ [Leofoo Village Themepark Zoo](https://leofooforeign.ticketeasy.com.tw) _(Jan 2018)_ <br>
   - Actively participated in rehabilitation projects for the wild animals
   - Educated the tourists regarding the importance of wildlife conservation and rehabilitation
   - Designed enrichments and special diets for captive animals
 <br><br>
 
 **Laboratory Veterinary Extern** <br>
-@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html)_(Feb 2018 ~ July 2018)_ <br>
-@ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html)_(Sep 2017 ~ June 2018)_ <br>
-@ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm)_(Sep 2015 ~ June 2016)_ <br>
+@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
+@ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
+@ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm) _(Sep 2015 ~ June 2016)_ <br>
   - Proactively involved in biomedical research projects
   - Actively designed and iterated standard operating procedures for experiments
   - Cooperated with masters and PhD seniors to take care the wellbeing of laboratory animals
 <br><br>
 
 **Small Animal Veterinary Intern** <br>
-@ [National Taiwan University Veterinary Hospital](https://www.vh.ntu.edu.tw)_(July 2019 ~ June 2020)_ <br>
-@ [Yong Chun Animal Hospital](https://www.facebook.com/isaacsomite/)_(Dec 2016 ~ July 2017)_ <br>
-@ [Lian Animal Clinic, Malaysia](https://www.facebook.com/LianAnimalClinic/)_(Apr 2015 ~ July 2015)_ <br>
+@ [National Taiwan University Veterinary Hospital](https://www.vh.ntu.edu.tw) _(July 2019 ~ June 2020)_ <br>
+@ [Yong Chun Animal Hospital](https://www.facebook.com/isaacsomite/) _(Dec 2016 ~ July 2017)_ <br>
+@ [Lian Animal Clinic, Malaysia](https://www.facebook.com/LianAnimalClinic/) _(Apr 2015 ~ July 2015)_ <br>
   - Active communication with pet owners and colleagues
   - Diligently participated in case researches and clinical conferences
   - Conducted clinical studies indepently and sought mentorship
@@ -54,7 +54,12 @@ Established exotic pet animal hospital that provides distinguish medical service
 
 ## :sunflower: Language Freelance/Volunteer Experiences
 
-**Life Design Artist** @ [Trilyera Life Lab](https://linktr.ee/trilyera)_(June 2021 ~ Present)_ <br>
+**Engoo English Tutor** @ [Engoo](https://engoo.com/tutors/45098) _(July 2021 ~ Present)_ <br>
+  - Conducting online English lessons
+  - Helping the students to learn English in a more interactive method
+  - Communicating with students to understand their learning preferences
+
+**Life Design Artist** @ [Trilyera Life Lab](https://linktr.ee/trilyera) _(June 2021 ~ Present)_ <br>
 Several projects: <br>
   - Designed and sold LINE stickers [Hahaland Zootopia S1](https://store.line.me/stickershop/product/14159062/en)
   - Compiled video series of [Cycling Taiwan in 14 days](https://youtube.com/playlist?list=PL9mA9O15A5vEh-02_bA4muQGXGVLtdTpx)
@@ -79,7 +84,7 @@ Several projects: <br>
   - Accurately and professionally translated for the international guests
   - Translated the Chinese booklet into English version
   - Communicatd and received positive feedbacks from guests
-<br><br>
+<br>
 
 **Exchange Officer** @ [Taiwan Veterinary Medicine Student Association](https://www.facebook.com/TVMSA) _(Aug 2016 ~ July 2017)_ <br>
   - Composed invitations and web content for [International Veterinary Student Association](https://www.facebook.com/ivsapage/) in both English and Chinese.
