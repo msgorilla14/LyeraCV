@@ -68,7 +68,10 @@ Established exotic pet animal hospital that provides distinguish medical service
 
 **Life Design Artist** @ [Trilyera Life Lab](https://linktr.ee/trilyera) _(June 2021 ~ Present)_ <br>
 Several projects: <br>
-  - Designed and sold LINE stickers [Hahaland Zootopia S1](https://store.line.me/stickershop/product/14159062/en)
+  - Designed and sold LINE stickers <br>
+      - [Hahaland Zootopia S1](https://store.line.me/stickershop/product/14159062/en)<br>
+      - [Hahaland Zootopia new S1](https://store.line.me/stickershop/product/16757548/en?from=sticker)<br>
+      - [Hahaland Zootopia S2](https://store.line.me/stickershop/product/16770077/en)<br>
   - Compiled video series of [Cycling Taiwan in 14 days](https://youtube.com/playlist?list=PL9mA9O15A5vEh-02_bA4muQGXGVLtdTpx)
   - Designed and created web content for [Instagram](https://www.instagram.com/trilyera.life.lab/)
 
