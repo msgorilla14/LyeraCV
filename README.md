@@ -56,14 +56,14 @@ Established exotic pet animal hospital that provides distinguish medical service
 @ [Lian Animal Clinic, Malaysia](https://www.facebook.com/LianAnimalClinic/) _(Apr 2015 ~ July 2015)_ <br>
   - Active communication with pet owners and colleagues
   - Diligently participated in case researches and clinical conferences
-  - Conducted clinical studies indepently and sought mentorship
+  - Conducted clinical studies independently and sought mentorship
 <br><br>
 
 ## 🌻 Language Freelance/Volunteer Experiences
 
 **Engoo English Tutor** @ [Engoo](https://engoo.com/tutors/45098) _(July 2021 ~ Present)_ <br>
   - Conducting online English lessons
-  - Helping the students to learn English in a more interactive method
+  - Helping the students to learn English interactively
   - Communicating with students to understand their learning preferences
 
 **Life Design Artist** @ [Trilyera Life Lab](https://linktr.ee/trilyera) _(June 2021 ~ Present)_ <br>
