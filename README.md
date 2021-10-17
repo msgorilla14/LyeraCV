@@ -5,7 +5,7 @@ _Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance
 [Email](mailto:trilyera.co@gmail.com) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
 
-## :woman_health_worker: Veterinary Related Experiences
+## 🐧 Veterinary Related Experiences
 **Resident Veterinarian** @ [Jurassic Exotic Animal Hospital](http://www.jurassicah.tw/index.php) _(Mar 2021 ~ June 2021)_ <br>
 Established exotic pet animal hospital that provides distinguish medical services.
   - Nursed 10-15 hospitalized animals back to health per day
@@ -52,7 +52,7 @@ Established exotic pet animal hospital that provides distinguish medical service
   - Conducted clinical studies indepently and sought mentorship
 <br><br>
 
-## :sunflower: Language Freelance/Volunteer Experiences
+## 🌻 Language Freelance/Volunteer Experiences
 
 **Engoo English Tutor** @ [Engoo](https://engoo.com/tutors/45098) _(July 2021 ~ Present)_ <br>
   - Conducting online English lessons
