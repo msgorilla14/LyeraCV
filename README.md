@@ -5,7 +5,7 @@ _Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance
 [Email](mailto:trilyera.co@gmail.com) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
 ## 🔬 Academic Research Experiences
-**Master of Science Human Animal Interaction** @[University of Stirling](https://www.stir.ac.uk/courses/pg-taught/human-animal-interaction/)_(Sep 2021 ~ Sep 2022)_<br>
+**Master of Science Human Animal Interaction** @[University of Stirling](https://www.stir.ac.uk/courses/pg-taught/human-animal-interaction/) _(Sep 2021 ~ Sep 2022)_<br>
   - Main interest in Animal Hospice and Palliative Care
   - Learning the fundamentals of Animal Assisted Interventions
   - Practicing key skills for psychological researches
