@@ -137,7 +137,7 @@ Several projects: <br>
 
 ## 👩🏼‍🎓 Education
 
-**Human Animal Interactions, University of Stirling, MSc** _(2021-2022)_ <br><br>
+**Human Animal Interactions, University of Stirling, MSc** _(2021 ~ 2022)_ <br><br>
 **School of Veterinary Medicine, National Taiwan University, D.V.M., B.S.** _(2015 ~ 2020)_
 
 
