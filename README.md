@@ -13,7 +13,7 @@ _(Sep 2021 ~ Sep 2022)_<br>
 <br><br>
 
 **Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
->_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_
+>_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_ <br>
   - Conducted clinical studies and laboratory experiments independently
   - Completed scientific paper and submitted for publication
   - Enhanced scientific reviewing and journal writing skills
@@ -71,7 +71,7 @@ Several projects: <br>
   - Designed and sold LINE stickers <br>
       - [Hahaland Zootopia S1](https://store.line.me/stickershop/product/14159062/en)<br>
       - [Hahaland Zootopia new S1](https://store.line.me/stickershop/product/16757548/en?from=sticker)<br>
-      - [Hahaland Zootopia S2](https://store.line.me/stickershop/product/16770077/en)<br>
+      - [Hahaland Zootopia S2](https://store.line.me/stickershop/product/16770077/en)
   - Compiled video series of [Cycling Taiwan in 14 days](https://youtube.com/playlist?list=PL9mA9O15A5vEh-02_bA4muQGXGVLtdTpx)
   - Designed and created web content for [Instagram](https://www.instagram.com/trilyera.life.lab/)
 
