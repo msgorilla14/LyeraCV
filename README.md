@@ -4,6 +4,28 @@ _Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance
 
 [Email](mailto:trilyera.co@gmail.com) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
+## 🔬 Academic Research Experiences
+**Master of Science Human Animal Interaction** @[University of Stirling](https://www.stir.ac.uk/courses/pg-taught/human-animal-interaction/)_(Sep 2021 ~ Sep 2022)_<br>
+  - Main interest in Animal Hospice and Palliative Care
+  - Learning the fundamentals of Animal Assisted Interventions
+  - Practicing key skills for psychological researches
+<br><br>
+
+**Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
+>_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_
+  - Conducted clinical studies and laboratory experiments independently
+  - Completed scientific paper and submitted for publication
+  - Enhanced scientific reviewing and journal writing skills
+<br><br>
+
+**Laboratory Research Veterinary Intern** <br>
+@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
+@ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
+@ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm) _(Sep 2015 ~ June 2016)_ <br>
+  - Proactively involved in biomedical research projects
+  - Actively designed and iterated standard operating procedures for experiments
+  - Cooperated with masters and PhD seniors to take care the wellbeing of laboratory animals
+<br><br>
 
 ## 🐧 Veterinary Related Experiences
 **Resident Veterinarian** @ [Jurassic Exotic Animal Hospital](http://www.jurassicah.tw/index.php) _(Mar 2021 ~ June 2021)_ <br>
@@ -18,13 +40,6 @@ Established exotic pet animal hospital that provides distinguish medical service
   - Passed Taiwan Veterinary Board Examination, certified as a practicing veterinarian
 <br><br>
 
-**Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
->_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_
-  - Conducted clinical studies and laboratory experiments independently
-  - Completed scientific paper and submitted for publication
-  - Enhanced scientific reviewing and journal writing skills
-<br><br>
-
 **Wildlife Veterinary Intern** <br>
 @ [Bornean Sun Bear Conservation Centre](https://www.bsbcc.org.my/index.html) _(Aug 2018)_ <br>
 @ [Sepilok Orang Utan Rehabilitation Centre](https://www.orangutan-appeal.org.uk/about-us/sepilok-orangutan-rehabilitation-centre) _(July 2018)_ <br>
@@ -32,15 +47,6 @@ Established exotic pet animal hospital that provides distinguish medical service
   - Actively participated in rehabilitation projects for the wild animals
   - Educated the tourists regarding the importance of wildlife conservation and rehabilitation
   - Designed enrichments and special diets for captive animals
-<br><br>
-
-**Laboratory Veterinary Extern** <br>
-@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
-@ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
-@ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm) _(Sep 2015 ~ June 2016)_ <br>
-  - Proactively involved in biomedical research projects
-  - Actively designed and iterated standard operating procedures for experiments
-  - Cooperated with masters and PhD seniors to take care the wellbeing of laboratory animals
 <br><br>
 
 **Small Animal Veterinary Intern** <br>
@@ -127,6 +133,7 @@ Several projects: <br>
 
 ## 👩🏼‍🎓 Education
 
+**Human Animal Interactions, University of Stirling, MSc** _(2021-2022)_
 **School of Veterinary Medicine, National Taiwan University, D.V.M., B.S.** _(2015 ~ 2020)_
 
 
