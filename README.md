@@ -1,3 +1,24 @@
+.printme {
+	display: none;
+}
+@media print {
+	.no-printme  {
+		display: none;
+	}
+	.printme  {
+		display: block;
+	}
+}
+
+
+<h1 class = "no-printme"> do not print this </h1>
+
+<div class='printme'>
+  Print this only 
+</div>
+
+<button onclick={window.print()}>Print only the above div</button>
+
 # Lyera Xin Ying Lye
 
 _Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance writer) from Malaysia_ <br>
