@@ -1,3 +1,9 @@
+<html>
+<body>
+<button onclick="window.print()">Print CV</button>
+</body>
+</html>
+
 # Lyera Xin Ying Lye
 
 _Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance writer) from Malaysia_ <br>
