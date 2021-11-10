@@ -67,9 +67,10 @@ Established exotic pet animal hospital that provides distinguish medical service
 ## 🌻 Language Freelance/Volunteer Experiences
 
 **Engoo English Tutor** @ [Engoo](https://engoo.com/tutors/45098) _(July 2021 ~ Present)_ <br>
-  - Conducting online English lessons
-  - Helping the students to learn English interactively
-  - Communicating with students to understand their learning preferences
+  - Received [100+ positive feedbacks](https://eikaiwa.dmm.com/teacher/index/45098/) from students within 2 months of tutoring
+  - Conducting interavtive online English lessons
+  - Effectively helping the students to learn English
+  - Communicating with students to understand their learning preferences<br> <br>
 
 **Life Design Artist** @ [Trilyera Life Lab](https://linktr.ee/trilyera) _(June 2021 ~ Present)_ <br>
 Several projects: <br>
@@ -78,28 +79,27 @@ Several projects: <br>
       - [Hahaland Zootopia new S1](https://store.line.me/stickershop/product/16757548/en?from=sticker)<br>
       - [Hahaland Zootopia S2](https://store.line.me/stickershop/product/16770077/en)
   - Compiled video series of [Cycling Taiwan in 14 days](https://youtube.com/playlist?list=PL9mA9O15A5vEh-02_bA4muQGXGVLtdTpx)
-  - Designed and created web content for [Instagram](https://www.instagram.com/trilyera.life.lab/)
+  - Designed and created web content for [Instagram](https://www.instagram.com/trilyera.life.lab/)<br><br>
 
 **Video Transcriber and Translator** @ [Michella Daruma Life](https://www.darumalife.com/categories/fuelnutrition) _(Oct 2020 ~ Jan 2021)_ <br>
   - Assisted in transcribing English and Chinese videos
   - Translated English to Traditional Chinese and vice versa
-  - Subtitled the videos in bilingual
+  - Subtitled the videos in bilingual<br><br>
 
 **Director of Publicity** @ [NTU Yoga Club](https://www.facebook.com/ntuyoga/) _(Aug 2020 ~ Jan 2021)_, _(Aug 2018 ~ July 2019)_ <br>
   - Designed content for NTU YOGA Facebook Page
   - Compiled and wrote yoga related articles for the club's social media platforms (Facebook, Instagram)
-  - Fluent use of English and Chinese to assist international students
+  - Fluent use of English and Chinese to assist international students<br><br>
 
 **English Master of Ceremony** @ [A dialogue between President Tsai Ing‐wen and Dr. Jane Goodall](https://english.president.gov.tw/NEWS/5026) _(Nov 2016)_ <br>
   - Designed and compiled questions for Dr.Jane Goodall and President Tsai
   - Coherently and clearly delivered questions for the guests
-  - Captivated the audience's attention on discussing the power of the young in changing the world
+  - Captivated the audience's attention on discussing the power of the young in changing the world<br><br>
 
 **Medical Conference Translator** @ [National Taiwan University Veterinary Hospital](https://www.vh.ntu.edu.tw) _(Sep 2016 ~ Oct 2016)_ <br>
   - Accurately and professionally translated for the international guests
   - Translated the Chinese booklet into English version
-  - Communicatd and received positive feedbacks from guests
-<br>
+  - Communicatd and received positive feedbacks from guests<br><br>
 
 **Exchange Officer** @ [Taiwan Veterinary Medicine Student Association](https://www.facebook.com/TVMSA) _(Aug 2016 ~ July 2017)_ <br>
   - Composed invitations and web content for [International Veterinary Student Association](https://www.facebook.com/ivsapage/) in both English and Chinese.
