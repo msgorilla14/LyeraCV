@@ -1,8 +1,8 @@
 # Lyera Xin Ying Lye
 
-_Veterinarian/Human Animal Interaction researcher (and a doodle artist/freelance writer) from Malaysia_ <br>
+_Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor from [Malaysia](https://goo.gl/maps/Qrx5D2P14FoidLWX8)_ <br>
 
-[Email](mailto:trilyera.co@gmail.com) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
+[Email](mailto:trilyera.co@gmail.com) / [Fiverr](https://www.fiverr.com/lyeraskylark?up_rollout=true) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
 ## 👩🏼‍🎓 Education
 
