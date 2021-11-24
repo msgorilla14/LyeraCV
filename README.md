@@ -50,7 +50,8 @@ Established exotic pet animal hospital that provides distinguish medical service
 @ [Bornean Sun Bear Conservation Centre](https://www.bsbcc.org.my/index.html) _(Aug 2018)_ <br>
 @ [Sepilok Orang Utan Rehabilitation Centre](https://www.orangutan-appeal.org.uk/about-us/sepilok-orangutan-rehabilitation-centre) _(July 2018)_ <br>
 @ [Leofoo Village Themepark Zoo](https://leofooforeign.ticketeasy.com.tw) _(Jan 2018)_ <br>
-  - Actively participated in rehabilitation projects for the wild animals
+@ [Taiwan Cetacean Society](http://www.whale.org.tw)_(Jan 2018)_<br>
+  - Actively participated in rehabilitation and rescue projects for the wild animals
   - Educated the tourists regarding the importance of wildlife conservation and rehabilitation
   - Designed enrichments and special diets for captive animals
 <br><br>
