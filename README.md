@@ -14,9 +14,9 @@ _Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor f
 _(Sep 2021 ~ Sep 2022)_<br>
   - Main interest in Wildlife Artivism, Human Wildlife Research, Digital Communications Management, Fundraising
   - Learning the fundamentals of Animal Assisted Interventions
+  - Avid learner and user of [R environment](https://www.rstudio.com)
   - Exercising research and analytical skills for academic researches
     - Speed Research Talk on [Animal Hospice](https://drive.google.com/file/d/1RssjN9r9mSvUinzFJlf0-EvoBYpn2uy1/view?usp=sharing)
-  - Avid learner and user of [R environment](https://www.rstudio.com)
 <br><br>
 
 **Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
