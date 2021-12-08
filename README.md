@@ -2,7 +2,7 @@
 
 _Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor from [Malaysia](https://goo.gl/maps/Qrx5D2P14FoidLWX8)_ <br>
 
-[Email](mailto:trilyera.co@gmail.com) / [Fiverr](https://www.fiverr.com/lyeraskylark?up_rollout=true) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/trilyera.life.lab) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
+[Email](mailto:trilyera.co@gmail.com) / [Fiverr](https://www.fiverr.com/lyeraskylark?up_rollout=true) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/lyeraskylark) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
 ## 👩🏼‍🎓 Education
 
@@ -83,7 +83,7 @@ Several projects: <br>
       - [Hahaland Zootopia new S1](https://store.line.me/stickershop/product/16757548/en?from=sticker)<br>
       - [Hahaland Zootopia S2](https://store.line.me/stickershop/product/16770077/en)
   - Compiled video series of [Cycling Taiwan in 14 days](https://youtube.com/playlist?list=PL9mA9O15A5vEh-02_bA4muQGXGVLtdTpx)
-  - Designed and created web content for [Instagram](https://www.instagram.com/trilyera.life.lab/)<br><br>
+  - Designed and created web content for [Instagram](https://www.instagram.com/lyeraskylark/)<br><br>
 
 **Video Transcriber and Translator** @ [Michella Daruma Life](https://www.darumalife.com/categories/fuelnutrition) _(Oct 2020 ~ Jan 2021)_ <br>
   - Assisted in transcribing English and Chinese videos
