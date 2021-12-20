@@ -28,7 +28,13 @@ _(Sep 2021 ~ Sep 2022)_<br>
 
 **Laboratory Research Veterinary Intern** <br>
 @ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
+  - Assisted PhD and master students in handling mice and rats
+  - Performed surgery for electrode implant on mice and rats' brain
+  - Recorded and analyzed data for mice/rat sleep neurophysiology
+  
 @ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
+  - Assisted Dr. Wang in performing physical examinations on animals in veterinary behavioral clinic
+  - 
 @ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm) _(Sep 2015 ~ June 2016)_ <br>
   - Proactively involved in biomedical research projects
   - Actively designed and iterated standard operating procedures for experiments
