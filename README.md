@@ -12,7 +12,7 @@ _Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor f
 ## 🔬 Academic Research Experiences
 **Master of Science Human Animal Interaction** @[University of Stirling](https://www.stir.ac.uk/courses/pg-taught/human-animal-interaction/)<br>
 _(Sep 2021 ~ Sep 2022)_<br>
-  - Main interest in Wildlife Artivism, Human Wildlife Research, Digital Communications Management, Fundraising
+  - Main interest in Human Wildlife Research, Digital Communications Management
   - Learning the fundamentals of Animal Assisted Interventions
   - Avid learner and user of [R environment](https://www.rstudio.com)
   - Exercising research and analytical skills for academic researches
@@ -31,14 +31,16 @@ _(Sep 2021 ~ Sep 2022)_<br>
   - Assisted PhD and master students in handling mice and rats
   - Performed surgery for electrode implant on mice and rats' brain
   - Recorded and analyzed data for mice/rat sleep neurophysiology
-  
-@ [Prof.Lih-Chiann Wang's Veterinary Behavioral Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
-  - Assisted Dr. Wang in performing physical examinations on animals in veterinary behavioral clinic
-  - 
+  <br>
+@ [Prof.Lih-Chiann Wang's Veterinary Behavioural Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
+  - Assisted Dr. Wang in veterinary behavioural clinic
+  - Discussed and devised treatment plans tailored for each patient
+  - Collected, analyzed data, and completed scientific paper for the project _Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_ 
+  <br>
 @ [Prof.Jason Tsai's Theriogenology Lab](https://jasonpstsai.wixsite.com/jt-lab-ntuvm) _(Sep 2015 ~ June 2016)_ <br>
-  - Proactively involved in biomedical research projects
+  - Proactively involved in different animal semen cryopreservation projects (eg. chimpanzee)
   - Actively designed and iterated standard operating procedures for experiments
-  - Cooperated with masters and PhD seniors to take care the wellbeing of laboratory animals
+  - Assited in taking care of the welfare of laboratory animals (eg. piglets)
 <br><br>
 
 ## 🐧 Veterinary Related Experiences
