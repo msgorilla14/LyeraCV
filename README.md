@@ -27,7 +27,7 @@ _(Sep 2021 ~ Sep 2022)_<br>
 <br><br>
 
 **Laboratory Research Veterinary Intern** <br>
-@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
+@ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](https://www.researchgate.net/profile/Fang-Chia-Chang) _(Feb 2018 ~ July 2018)_ <br>
   - Assisted PhD and master students in handling mice and rats
   - Performed surgery for electrode implant on mice and rats' brain
   - Recorded, analyzed EEG and videos of rats during sleep <br>
