@@ -30,7 +30,7 @@ _(Sep 2021 ~ Sep 2022)_<br>
 @ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_23.html) _(Feb 2018 ~ July 2018)_ <br>
   - Assisted PhD and master students in handling mice and rats
   - Performed surgery for electrode implant on mice and rats' brain
-  - Recorded and analyzed data for mice/rat sleep neurophysiology <br>
+  - Recorded, analyzed EEG and videos of rats during sleep <br>
 
 @ [Prof.Lih-Chiann Wang's Veterinary Behavioural Research Lab](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2018)_ <br>
   - Assisted Dr. Wang in veterinary behavioural clinic
