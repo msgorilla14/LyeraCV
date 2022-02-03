@@ -20,7 +20,7 @@ _(Sep 2021 ~ Sep 2022)_<br>
 <br><br>
 
 **Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
->_Lactobacillus plantarum PS128 effect on alleviating Canine Aggression and Separation Anxiety_ <br>
+>_[Effect of Lactiplantibacillus plantarum PS128 on alleviating Canine Aggression and Separation Anxiety](https://doi.org/10.1016/j.applanim.2022.105569)_ <br>
   - Conducted clinical studies and laboratory experiments independently
   - Completed scientific paper and submitted for publication
   - Enhanced scientific reviewing and journal writing skills
