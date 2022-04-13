@@ -46,8 +46,8 @@ _(Sep 2021 ~ Sep 2022)_<br>
 ## 🐧 Veterinary Related Experiences
 **Resident Veterinarian** @ [Jurassic Exotic Animal Hospital](http://www.jurassicah.tw/index.php) _(Mar 2021 ~ June 2021)_ <br>
 Established exotic pet animal hospital that provides distinguish medical services.
-  - Nursed 10-15 hospitalized animals back to health per day.
-  - Lead veterinary assistants in daily medical workflow.
+  - Meticulously nursed 10-15 hospitalized animals back to health per day.
+  - Cooperate well with co-workers to provide top-notch medical care for animals.
   - Strengthened communication with owners to provide top-notch service for animal patients.
   - Proactively designed web content for the hospital Facebook page [侏儸紀野生動物專科醫院](https://www.facebook.com/jurassicah.tw)
 <br><br>
