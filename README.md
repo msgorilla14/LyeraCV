@@ -96,8 +96,9 @@ Several projects: <br>
 
 **Video Transcriber and Translator** @ [Michella Daruma Life](https://www.darumalife.com/categories/fuelnutrition) _(Oct 2020 ~ Jan 2021)_ <br>
   - Refined translation and transcription of English and Chinese videos.
-  - Increased platform audience by 50% by actively managing [Youtube channel](https://www.youtube.com/channel/UCudDcnaFFbuBMWPJSvXrn1w).
-  - Reworked bilingual video subtitiles. <br><br>
+  - Increased platform audience by 50% by actively organizing [Youtube channel](https://www.youtube.com/channel/UCudDcnaFFbuBMWPJSvXrn1w).
+  - Self-motivated to learn using Final Cut Pro X and Final Sub for post-production.
+  - Generated excellent connection with employer and customers from the sports community.<br><br>
 
 **Director of Publicity** @ [NTU Yoga Club](https://www.facebook.com/ntuyoga/) _(Aug 2020 ~ Jan 2021)_, _(Aug 2018 ~ July 2019)_ <br>
   - Creatively designed content for NTU YOGA Facebook Page.
