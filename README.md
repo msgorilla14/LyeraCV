@@ -17,14 +17,14 @@ _(Sep 2021 ~ Sep 2022)_<br>
   - Motivated avid learner and user of [R environment](https://www.rstudio.com)
   - Enhanced research and analytical skills for academic researches.
     - Speed Research Talk on [Animal Hospice](https://drive.google.com/file/d/1RssjN9r9mSvUinzFJlf0-EvoBYpn2uy1/view?usp=sharing)
-<br><br>
+<br>
 
 **Co-author Researcher** with [Professor Lih-Chiann Wang](http://www.vm.ntu.edu.tw/DVM_Eng/faculty_2/id_30.html) _(Sep 2017 ~ June 2019)_
 >_[Effect of Lactiplantibacillus plantarum PS128 on alleviating Canine Aggression and Separation Anxiety](https://doi.org/10.1016/j.applanim.2022.105569)_ <br>
   - Coordinated clinical studies and laboratory experiments on veterinary behaviour.
   - Delivered and published scientific paper at [Applied Animal Behaviour Science](https://doi.org/10.1016/j.applanim.2022.105569)
   - Enhanced scientific reviewing and journal writing skills.
-<br><br>
+<br>
 
 **Laboratory Research Veterinary Intern** <br>
 @ [Prof.Fang-Chia Chang's Sleep Neurophysiology Lab](https://www.researchgate.net/profile/Fang-Chia-Chang) _(Feb 2018 ~ July 2018)_ <br>
