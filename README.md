@@ -79,7 +79,7 @@ Established exotic pet animal hospital that provides distinguish medical service
 
 **Engoo English Tutor** @ [Engoo](https://engoo.com/tutors/45098) _(July 2021 ~ Present)_ <br>
   - Received [150+ positive feedbacks](https://eikaiwa.dmm.com/teacher/index/45098/) from students within 2 months of tutoring
-  - Motivated in conducting interavtive online English lessons.
+  - Motivated in conducting interactive online English lessons.
   - Effectively helping the students to learn English.
   - Identified students' learning preferences through effective conversation.<br> <br>
 
