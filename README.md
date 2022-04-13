@@ -2,7 +2,7 @@
 
 _Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor from [Malaysia](https://goo.gl/maps/Qrx5D2P14FoidLWX8)_ <br>
 
-[Email](mailto:trilyera.co@gmail.com) / [Fiverr](https://www.fiverr.com/lyeraskylark?up_rollout=true) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/lyeraskylark) / [Facebook](https://www.facebook.com/trilyera.life.lab) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
+[Email](mailto:trilyera.co@gmail.com) / [Fiverr](https://www.fiverr.com/lyeraskylark?up_rollout=true) / [LinkedIn](https://linkedin.com/in/lyeraskylark14) / [GitHub](https://github.com/msgorilla14) / [Instagram](https://www.instagram.com/lyeraskylark) / [Facebook](https://www.facebook.com/trilyera.adventures) / [Youtube](https://www.youtube.com/channel/UCjzH13HRRAf7cwqhvzPcEYw)
 
 ## 👩🏼‍🎓 Education
 
@@ -12,10 +12,10 @@ _Veterinarian/Human Animal Interaction researcher/Doodle Artist/Language Tutor f
 ## 🔬 Academic Research Experiences
 **Master of Science Human Animal Interaction** @[University of Stirling](https://www.stir.ac.uk/courses/pg-taught/human-animal-interaction/)<br>
 _(Sep 2021 ~ Sep 2022)_<br>
-  - Main interest in Human Wildlife Research, Digital Communications Management
-  - Learning the fundamentals of Animal Assisted Interventions
+  - Current project: Human Equine Interaction in collaboration with [Equi Scotia](https://www.equi-scotia.com)
+  - Maximise learning outcome by proactively documenting Human Animal Interactions stories
   - Avid learner and user of [R environment](https://www.rstudio.com)
-  - Exercising research and analytical skills for academic researches
+  - Enhance research and analytical skills for academic researches
     - Speed Research Talk on [Animal Hospice](https://drive.google.com/file/d/1RssjN9r9mSvUinzFJlf0-EvoBYpn2uy1/view?usp=sharing)
 <br><br>
 
